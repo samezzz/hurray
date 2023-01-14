@@ -25,7 +25,7 @@ export default function About() {
           }}
           whileInView={{ opacity: 1, x: 0 }}
           viewport={{ once: true }}
-          src="/dzifa-06.png"
+          src="/Dzifa-06.png"
           alt=""
           className="md:mb-0 flex-shrink-0 w-40 h-40 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px] shadow-lg"
         />
