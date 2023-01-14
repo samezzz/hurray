@@ -23,7 +23,7 @@ export default function Hero({}: Props) {
     <section id="hero" className="snap-center">
       <div className="h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden">
         <BackgroundCircles />
-        <Image src="/dzifa-06.png" alt="" width={200} height={0} className="w-36 h-36 object-cover relative rounded-full mx-auto" />
+        <Image src="/dzifa-04.png" alt="" width={200} height={0} className="w-36 h-36 object-cover relative rounded-full mx-auto" />
         <div className="z-20">
           <h2 className="text-sm uppercase text-gray-500 pb-2 tracking-[10px] md:tracking-[15px]">DZIFA GLYMIN</h2>
         </div>
